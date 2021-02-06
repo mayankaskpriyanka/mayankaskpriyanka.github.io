@@ -214,7 +214,7 @@ min-height:20rem;
 }
 
 
-@media screen and (max-width:600px){
+@media screen and (max-width:400px){
   .image-gallery{
 grid-template-areas:
      'img-1 img-1 img-1 img-1' 
